@@ -1165,6 +1165,9 @@ const TempusDominusBootstrap4 = ($ => { // eslint-disable-line no-unused-vars
         if ($target.length === 0) {
             return;
         }
+        if (config === undefined || config === null) {
+            return;
+        }
         if (!config._options.allowInputToggle) {
             return;
         }
