@@ -4,7 +4,7 @@ module.exports = function (grunt) {
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
         banner: '/*@preserve\n' +
-        ' * Tempus Dominus Bootstrap4 v<%= pkg.version %> (<%= pkg.homepage %>)\n' +
+        ' * Tempus Dominus Bootstrap4 - Updates by ouija & B3none v<%= pkg.version %> (<%= pkg.homepage %>)\n' +
         ' * Copyright 2016-<%= grunt.template.today("yyyy") %> <%= pkg.author %>\n' +
         ' * Licensed under MIT (https://github.com/tempusdominus/bootstrap-3/blob/master/LICENSE)\n' +
         ' */\n',
