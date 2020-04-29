@@ -9,7 +9,7 @@ We recommend using [JSDelivr](https://www.jsdelivr.com/)
 `<script src="https://cdn.jsdelivr.net/npm/b3none-tempusdominus-bootstrap-4@5.1.3/build/js/b3none-tempusdominus-bootstrap-4.min.js"></script>` 
 
 # 𝖔𝖚𝖎𝖏𝖆 𝖒𝖔𝖉𝖎𝖋𝖎𝖈𝖆𝖙𝖎𝖔𝖓𝖘
-This fork contains bugfixes and patches that haven't yet been merged into the [original reprository](https://github.com/tempusdominus/bootstrap-4) as of commit [#540bfae](https://github.com/tempusdominus/bootstrap-4/commit/540bfae18ca662bacfbea610e0ab8dcce6dd699e) (Oct 6, 2018), since the project appears to have possibly been abondoned.  It also offers [improved accessibility support](https://github.com/ouija/tempusdominus-bootstrap-4/tree/accessibility-fix).
+This fork contains bugfixes and patches that haven't yet been merged into the [original repository](https://github.com/tempusdominus/bootstrap-4) as of commit [#540bfae](https://github.com/tempusdominus/bootstrap-4/commit/540bfae18ca662bacfbea610e0ab8dcce6dd699e) (Oct 6, 2018), since the project appears to have possibly been abondoned.  It also offers [improved accessibility support](https://github.com/ouija/tempusdominus-bootstrap-4/tree/accessibility-fix).
 
 Changelog:
 * Added [fix](https://github.com/ouija/tempusdominus-bootstrap-4/commit/58ddddaa1c7d7534af21f4fbc42180d48179d568) for [Issue #34](https://github.com/tempusdominus/bootstrap-4/issues/34) *(TypeError: Cannot read property 'isSame' of undefined error)*
